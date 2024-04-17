@@ -39,8 +39,7 @@ The statement — if you ask me — is quite remarkable.
 ```text
 1:1-1:75 warning Found typographic symbols: [“ ” “ ” ‘ ’ ’] curvy-typography remark-lint
 
-3:1-3:48 warning Found typographic symbols: [„ “]           curvy-typography remark-
+3:1-3:48 warning Found typographic symbols: [„ “]           curvy-typography remark-lint
 
 5:1-6:53 warning Found typographic symbols: [– — —]         curvy-typography remark-lint
-
 ```
